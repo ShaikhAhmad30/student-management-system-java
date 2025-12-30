@@ -61,5 +61,6 @@ public class MainApp {
                 break;
             }
         }
+        sc.close();
     }
 }
